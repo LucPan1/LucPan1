@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Luc ! | 💻 I'm a web developer working with full stack applications. 
+👋 Hi, I'm Luc ! | 💻 I'm a web developer working with full stack applications | 🌐 Paris
 
 - Building reliable and maintainable web applications.
 - Strengthening my technical skills and engineering fundamentals.
