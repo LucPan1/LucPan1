@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 | 💻 Student Developer | 🌐 Paris
+👋 Hi, i'm Luc ! | 💻 I'm a web developer working with full stack applications | 🌐 Paris
 
 
 # 💻 Tech Stack:
